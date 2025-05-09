@@ -1,8 +1,6 @@
 Key Components:
 
 Imports:
-
-
 StrOutputParser from langchain_core.output_parsers: Parses the output from the language model.
 PromptTemplate from langchain_core.prompts: Creates a template for the prompt.
 ChatOllama from langchain_ollama: Interface for interacting with the language model.
